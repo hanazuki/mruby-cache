@@ -1,3 +1,7 @@
+# Move to [mruby-localmemcache](https://github.com/matsumoto-r/mruby-localmemcache)
+
+This repository will not be maintained.
+
 # mruby-cache   [![Build Status](https://travis-ci.org/matsumoto-r/mruby-cache.png?branch=master)](https://travis-ci.org/matsumoto-r/mruby-cache)
 
 it's based on [localmemcache](https://github.com/sck/localmemcache).
